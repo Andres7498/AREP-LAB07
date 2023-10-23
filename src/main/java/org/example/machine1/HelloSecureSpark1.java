@@ -1,6 +1,5 @@
 package org.example.machine1;
 
-
 import org.example.URLReader;
 
 import static spark.Spark.*;
